@@ -1,2 +1,12 @@
-# Horiseon-SEO
-This is a test
+# Description
+This website was made for the purpose of showing how the Horiseon page works. The navigation page allows you to jump down to the description of whatever you are interested in knowing about the page. Learn more about Horiseon through this website and see if Horiseon is right for you.
+
+<br></br>
+
+# Screenshot
+![Screenshot of what the webpage looks like](./assets/Screenshot 2022-06-16 at 18-36-48 Horiseon.png)
+
+<br></br>
+
+# Website URL
+https://thomasholmes00.github.io/Horiseon-SEO/
