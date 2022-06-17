@@ -4,7 +4,7 @@ This website was made for the purpose of showing how the Horiseon page works. Th
 <br></br>
 
 # Screenshot
-![Screenshot of what the webpage looks like](./assets/Screenshot 2022-06-16 at 18-36-48 Horiseon.png)
+![Screenshot of what the webpage looks like](./assets/Screenshot.png)
 
 <br></br>
 
